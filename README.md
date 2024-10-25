@@ -3,8 +3,6 @@ This system provides users with a personalized approach to health management by 
 <br><br><br><br>
 <img src="screenshots/predict.png" alt="Project Image" width="800"/>
 <img src="screenshots/description.png" alt="Project Image" width="800"/>
-<img src="screenshots/medications.png" alt="Project Image" width="800"/>
-<img src="screenshots/diet.png" alt="Project Image" width="800"/>
 <img src="screenshots/precaution.png" alt="Project Image" width="800"/>
-<img src="screenshots/description.png" alt="Project Image" width="800"/>
+<img src="screenshots/medications.png" alt="Project Image" width="800"/>
 <img src="screenshots/workouts.png" alt="Project Image" width="800"/>
